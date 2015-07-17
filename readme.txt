@@ -6,7 +6,8 @@ Stable tag: 3.5
 Contributors: arsh91
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=76HRTN4CYBJV8
 Requires at least: 3.0.1
-Tested up to: 4.2.2
+Tested up to: 4.2
+Stable tag: 4.2
 
 Now its easy to show your locations with all the related info on website by use of Pin Locations on Map Plugin.
 == Description ==
