@@ -3,7 +3,6 @@ Author: Arsh Sharma
 Tags: Map organiser, Add locations on Map, Locations, Addresses, google Map, show Locations on Map, show Addresses on Map.  
 Tested up to: 4.2
 Stable tag: 3.5
-Contributors: arsh91
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=76HRTN4CYBJV8
 Requires at least: 3.0.1
 Tested up to: 4.2
